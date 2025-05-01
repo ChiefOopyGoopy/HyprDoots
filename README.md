@@ -2,5 +2,5 @@
 
 - Distro: Bazzite (KDE Desktop)
 - Window Manager: Hyprland
-- Launcher: wofi
-- More to come soon...99
+- Launcher: wofi & rofi
+- More to come soon...
