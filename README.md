@@ -1,6 +1,6 @@
-# Bazzite HyprDoots
+# Fedora HyprDoots
 
-- Distro: Bazzite (KDE Desktop)
+- Distro: Fedora (KDE Desktop)
 - Window Manager: Hyprland
 - Launcher: wofi
 - More to come soon...
